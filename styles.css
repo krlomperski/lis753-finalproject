@@ -33,6 +33,8 @@ body {
   color: #ffffff;
   padding: 16px 0 12px 0;
   border-bottom: 4px solid #FCBD31;
+
+  background-image: url(http://www.transparenttextures.com/patterns/always-grey.png);
 }
 
 .site-title {
